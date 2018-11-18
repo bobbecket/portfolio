@@ -4,6 +4,7 @@ body { box-sizing: border-box;
   overflow-x: hidden;
 }
 .image {width: 800px;}
+.bioimage {width: 256px;}
 .navbar {
   position: fixed;
   width: 100%;
